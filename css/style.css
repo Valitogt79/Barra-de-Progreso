@@ -59,7 +59,7 @@ body {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  width: 25%;
+  width: 0%;
   background-color: purple;
   height: 5px;
 }
